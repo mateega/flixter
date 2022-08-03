@@ -4,4 +4,4 @@ Flixter shows the latest movies currently playing in theaters. The app utilizes 
 
 Here's a walkthrough of implemented user stories:
 
-metau-flixter/app/demo.gif
+https://github.com/mateega/flixter/blob/main/app/demo.gif
